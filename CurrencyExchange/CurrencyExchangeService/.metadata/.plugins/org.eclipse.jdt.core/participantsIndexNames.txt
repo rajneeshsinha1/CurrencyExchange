@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\Microservices\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2169829719.index
+\currency-conversion-service1\src\main\java
+C:\MicroservicesTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1016852065.index
+\spring-boot-rest\src\main\java
+C:\Microservices\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4196351609.index
+\currency-conversion-service1\src\main\java
+C:\MicroservicesTraining\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2974019023.index
+\currency-exchange-service\src\main\java
+C:\Microservices\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2651964044.index
+\currency-conversion-service\src\main\java
+C:\Microservices\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\702076108.index
+\currency-conversion-service\src\main\java
